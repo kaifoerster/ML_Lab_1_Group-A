@@ -13,6 +13,9 @@ ipython = "*"
 tensorflow = "*"
 ipykernel = "*"
 keras-tuner = "*"
+notebook = "*"
+torchvision = "*"
+selenium = "*"
 
 [dev-packages]
 
