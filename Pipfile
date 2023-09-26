@@ -16,6 +16,7 @@ keras-tuner = "*"
 notebook = "*"
 torchvision = "*"
 selenium = "*"
+torch = "*"
 
 [dev-packages]
 
