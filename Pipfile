@@ -14,9 +14,10 @@ tensorflow = "*"
 ipykernel = "*"
 keras-tuner = "*"
 notebook = "*"
-torchvision = "*"
+torchvision = "==0.15.1"
 selenium = "*"
-torch = "*"
+torch = "==2.0.0"
+d2l = "==1.0.3"
 
 [dev-packages]
 
