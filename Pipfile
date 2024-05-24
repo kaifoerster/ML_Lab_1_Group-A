@@ -18,6 +18,12 @@ torchvision = "==0.15.1"
 selenium = "*"
 torch = "==2.0.0"
 d2l = "==1.0.3"
+transformers = {version = "~=4.31.0", extras = ["sentencepiece"]}
+accelerate = "*"
+datasets = "~=2.14.0"
+optuna = "~=3.3.0"
+evaluate = "*"
+rouge-score = "*"
 
 [dev-packages]
 
